@@ -1,0 +1,18 @@
+package exercise;
+
+public class Android {
+
+    public void powerOn() {
+<<<<<<< HEAD
+        System.out.println("Android: power on...");
+    }
+    public void powerOff() {
+        System.out.println("Android: power off...");
+=======
+	System.out.println("Android: power on...");
+    }
+    public void powerOff() {
+	System.out.println("Android: power off...");
+>>>>>>> eeaab3eee6135bcf89e7995433f1ab5345588e57
+    }
+}
